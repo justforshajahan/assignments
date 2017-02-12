@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>table</title>
+</head>
+<body bgcolor="E9D874">
+<h1>Account Details</h1>
+<table width="50%" border="2" cellspacing="20px" bordercolor="white">
+	<tr>
+		<td width="25%">
+		
+			<h3 align="CENTER">Account Number</h3>
+		</td>
+		<td width="25%">
+			<h3 align="CENTER">Customer Name</h3>
+		</td>
+	</tr>
+	<tr>
+		<td width="25%">
+			<h3 align="left">1001</h3>
+		</td>
+		<td width="25%">
+			<h3 align="left">Jack</h3>
+		</td>
+	</tr>
+	<tr>
+		<td width="25%">
+			<h3 align="left">1002</h3>
+		</td>
+		<td width="25%">
+			<h3 align="left">Tom</h3>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
