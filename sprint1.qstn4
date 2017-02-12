@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1><center><U><i> PROGRAMMING LANGUAGES</i></U></center></h1>
+<p style="color: blue;font-size: 15px">A programming language is a formal language instrustion to a mechine,particularly a computer.Programming languages can be used to create program that control the behaviour of a machine and or to expree algorithm precisely  </p>
+<hr/>
+<h4><center><u><i>C<sup>++</sup></i></u></center></h4>
+<p style="color: blue;">C++(pronounced see plus plus) is a programming language that is general purpose,staticaly typed,free from,multi-paradigm and compiled. it is regarded as an intermmediate level language,as it comparises both high-level and low level language features</p><hr/>
+<h4><center><u><i>C</i></u></center></h4>
+<p style="color: blue;">C is the most widely used programming language of all time and C compiler are available for the majority of available computer architectures and operating systems</p><hr/>
+<h4><center><u><i>Java</i></u></center></h4>
+<p style="color: blue;">java is a computer programming language that is concurrent,class based,object oriented and specifically designed to have as few implementation dependences as possible</p><hr/>
+<h4><center><i><u><sup>O2</sup> and <small>LIFE</i></small></u></center></h4>
+<p style="color: blue;">Oxygen(O2) is one of the most important elements required to sustain life without it,our health begins to suffer and or we die.unhealthy or weak cells due to improper metabolism to their naturel immunity and are thus suscepitable to virus and lead the way to all kinds of serious health problems </p><hr/>
+</body>
+</html>   
