@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h2><U> PROGRAMMING LANGUAGES</U></h2>
+<ul>
+	<li>C</li>
+	<li>C<sup>++</sup></li>
+	<li>Java</li>
+	<li>Pascal</li>
+	<li>COBOL</li>
+</ul>
+<h2>OBJECT ORIENTED PROGRAMMING</h2>
+<ol>
+	<li>C<sup>++</sup></li>
+	<li>Java</li>
+	<li>Ada</li>
+	<li>Fortran</li>
+</ol>
+<dl>
+	<dt>GECI</dt>
+	<dd>-Painav,Idukki</dd>
+	<dt>PHSS</dt>
+	<dd>-Pavandoor,Calicut</dd>
+	<dt>GHSS</dt>
+	<dd>-Narikkuni,Calicut</dd>
+</dl>
+</body>
+</html>
